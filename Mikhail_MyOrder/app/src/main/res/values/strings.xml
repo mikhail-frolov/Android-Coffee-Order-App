@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mikhail_MyOrder</string>
+    <string name="coffee_size">Coffee Size</string>
+    <string name="coffee_type">Coffee Type</string>
+    <string name="quantity">Quantity</string>
+    <string-array name="types">
+        <item>Dark Roast</item>
+        <item>Vanilla Coffee</item>
+        <item>Italiano</item>
+        <item>Triple Triple</item>
+        <item>Original Blend</item>
+    </string-array>
+
+    <string-array name="coffeeTypes">
+        <item>Dark Roast</item>
+        <item>Vanilla Coffee</item>
+        <item>Italiano</item>
+        <item>Triple Triple</item>
+        <item>Original Blend</item>
+    </string-array>
+
+    <string-array name="coffeeSizes">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+    </string-array>
+
+</resources>
